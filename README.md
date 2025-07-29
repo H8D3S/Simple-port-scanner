@@ -13,7 +13,7 @@ This is a basic TCP port scanner written in Go that scans a range of ports on a 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/port-scanner.git
+   git clone https://github.com/H8D3S/port-scanner.git
    ```
 
 2. Navigate to the project directory:
